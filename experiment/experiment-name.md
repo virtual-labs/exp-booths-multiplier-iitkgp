@@ -1,1 +1,1 @@
-## Experiment name
+## Booth's Multiplier
