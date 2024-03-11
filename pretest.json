@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In which notation, 0 has two representations?",
+      "answers": {
+        "a": "Sign magnitude",
+        "b": "1's complement",
+        "c": "2's complement",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Sign extension is a step in",
+      "answers": {
+        "a": "Arithmetic left shift",
+        "b": "Signed 16 bit integer addition",
+        "c": "Floating point multiplication",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
