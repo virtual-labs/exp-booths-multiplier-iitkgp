@@ -24,6 +24,30 @@
       
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "For a 4 bit number, what is the maximum positive integer which can be expressed in 2's complement?",
+      "answers": {
+        "a": "8",
+        "b": "7",
+        "c": "16",
+        "d": "15"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For a 4 bit number, what is the minimum negative integer which can be expressed in 2's complement?",
+      "answers": {
+        "a": "-7",
+        "b": "-15",
+        "c": "-16",
+        "d": "-8"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }
