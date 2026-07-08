@@ -1,0 +1,49 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following gives best performance with Booth's algorithm?",
+      "answers": {
+        "a": "0000 1111",
+        "b": "1111 0000",
+        "c": "1111 1111",
+        "d": "1010 1010"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Booth's algorithm is faster du to less number of addition and subtraction and can handle signed numbers",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Booth's algorithm increases space in case of fixed point signed multiplication",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2's complement of 7 is",
+      "answers": {
+        "a": "11100",
+        "b": "11001",
+        "c": "10111",
+        "d": "10100"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
